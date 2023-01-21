@@ -1,0 +1,12 @@
+flask==2.0.0
+Flask-SQLAlchemy==2.5.1
+pymysql
+marshmallow-sqlalchemy
+Flask-Migrate==2.5.3
+Flask-Script==2.0.6
+Flask-Cors==3.0.9
+requests==2.25.0
+flask-marshmallow
+pika==1.1.0
+python-dotenv
+pymongo==2.8
