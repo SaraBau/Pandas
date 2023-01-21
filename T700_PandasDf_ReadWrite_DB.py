@@ -2,7 +2,7 @@ import pandas as pd
 import mysql.connector              
 import sqlalchemy
 
-df = pd.read_excel(r'C:\Dev\Pandas\T700.xlsx')
+df = 'T700.xlsx'
 
 class T700:
 
